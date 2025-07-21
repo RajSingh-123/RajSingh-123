@@ -20,8 +20,9 @@
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=RajSingh-123&show_icons=true&theme=tokyonight" alt="Raj's GitHub stats" height="150"/>
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajSingh-123&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.vercel.app/?user=RajSingh-123&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
+
 
 ---
 
