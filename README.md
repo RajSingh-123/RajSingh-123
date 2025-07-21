@@ -17,10 +17,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=RajSingh-123&show_icons=true&theme=tokyonight" alt="Raj's GitHub stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=RajSingh-123&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
-</p>
----
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=RajSingh-123&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
+</p>---
 
 ## 🧠 Featured Projects
 - [📊 HR Attrition Dashboard](https://github.com/RajSingh-123/HR-Attrition-Dashboard) – Power BI dashboard to uncover employee attrition trends.
