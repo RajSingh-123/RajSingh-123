@@ -23,6 +23,8 @@
 
 ## 🧠 Featured Projects
 - [📊 HR Attrition Dashboard](https://github.com/RajSingh-123/HR-Attrition-Dashboard) – Power BI dashboard to uncover employee attrition trends.
+- [📊 Netflix Viewing Behavior & Recommendation Dashboard](https://github.com/RajSingh-123/Netflix-Viewing-Behavior-Dashboard) - Power BI dashboard analyzes 23,000+ Netflix titles to help content strategists and marketing teams.
+- [📊 Adidas Shoe Sales – Exploratory Data Analysis](https://github.com/RajSingh-123/Adidas-Shoe-Sales-EDA) - Performed EDA on Adidas retail shoe sales data to identify top products, key regions, seasonal trends, customer segments, and revenue/profit patterns for actionable insights.
 - 📌 *More coming soon...*
 
 ---
