@@ -16,9 +16,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajSingh-123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajSingh-123&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajSingh-123&show_icons=true&theme=tokyonight" alt="Raj's GitHub stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=RajSingh-123&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
+</p>
 ---
 
 ## 🧠 Featured Projects
