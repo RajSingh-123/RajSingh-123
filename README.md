@@ -22,6 +22,7 @@
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RajSingh-123&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
+
 ---
 
 ## 🧠 Featured Projects
