@@ -36,6 +36,11 @@
   <a href="https://github.com/RajSingh-123/Adidas-Shoe-Sales-EDA">
     <img src="https://img.shields.io/badge/📊_Adidas_Shoe_Sales_EDA-Python-green?style=for-the-badge" />
   </a>
+  <a href="https://github.com/RajSingh-123/Online-Course-Dashboard">
+    <img src="https://img.shields.io/badge/📊_Online_Course_Dashboard-Excel-yellow?style=for-the-badge" />
+  </a>
+
+
 </p>
 
 > 🏗 *More exciting projects coming soon… stay tuned!*
