@@ -39,7 +39,9 @@
   <a href="https://github.com/RajSingh-123/Online-Course-Dashboard">
     <img src="https://img.shields.io/badge/📊_Online_Course_Dashboard-Excel-yellow?style=for-the-badge" />
   </a>
-
+  <a href="https://github.com/RajSingh-123/Dubai-real-estate-liquidity-radar">
+    <img src="https://img.shields.io/badge/📊_Dubai_real_Estate-Market Analytics-blue?style=for-the-badge" />
+  </a>
 
 </p>
 
